@@ -40,4 +40,5 @@ if __name__ == "__main__":
     print(dfs(graph, 'A'))
 ```
 
-## 
+The 'DFS' is using 'Stack'. Reason is node will be back when next node is not exist or already visited.
+'BFS' isn't hard algorithm. But That is hard in apply algorithm problem. Example is question of Programmers that name is 'Target Number'.
