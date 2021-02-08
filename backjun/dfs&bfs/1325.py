@@ -1,4 +1,4 @@
-# 실패. 시간 제한 걸림. 
+# 실패. 시간 제한 걸림.
 
 import sys
 input = sys.stdin.readline

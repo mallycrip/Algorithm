@@ -18,4 +18,4 @@ graph = {
 }
 
 if __name__ == '__main__':
-    dfs("D", graph)
+    dfs("A", graph)
