@@ -3,7 +3,7 @@ def dfs(start_node, graph):
     stack = [start_node]
 
     while stack:
-        n = stack.pop()
+        n = stack.pop(0)
         if n not in visit:
             visit.append(n)
             stack.extend(graph[n])

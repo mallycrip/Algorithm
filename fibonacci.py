@@ -25,6 +25,6 @@ if __name__ == '__main__':
     v = 50
 
     start_time = time.time()
-    print(fibonacci_memoization(v))
-    # print(fibonacci_recursive(v))
+    # print(fibonacci_memoization(v))
+    print(fibonacci_recursive(v))
     print(time.time() - start_time)
